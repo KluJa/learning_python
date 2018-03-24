@@ -1,10 +1,9 @@
-####Python Training Projects
-Python Trainig Projects
-======================
+Python Training Projects
+------------------------
 
 Set of trainig projects I created while learing
 programming in python
 
-#####List of Projects
+**List of Projects**
 1. Age in Seconds
 1. Project2
