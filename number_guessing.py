@@ -1,6 +1,10 @@
 import random
 
+<<<<<<< Updated upstream
 magic_numbers = random.randint(0,9)
+=======
+magic_numbers = [random.randint(0,9),random.randint(0,9)]
+>>>>>>> Stashed changes
 chances = 3
 
 print("{}".format(magic_numbers))
