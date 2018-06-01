@@ -1,6 +1,16 @@
 import random
 
+<<<<<<< HEAD
 def ask_user_and_check_reply():
+=======
+<<<<<<< Updated upstream
+magic_numbers = [random.randint(0,9),random.randint(0,9)]
+chances = 3
+print("{}".format(magic_numbers))
+
+for attempt in range(chances):
+    print("Attempt number: {}".format(attempt+1))
+>>>>>>> 6fa2678da9b911f2c4a4289cf7531315a61a7122
     user_number = int(input("Enter a number between 0 and 9: "))
     if user_number ==  magic_numbers:
         return ("You got the number right!")
